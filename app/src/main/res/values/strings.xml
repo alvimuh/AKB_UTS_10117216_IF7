@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AKB_UTS_10117216_IF7</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="nama">Adi Prayoga</string>
+    <string name="nim">10117216</string>
+    <string name="kelas">IF - 7</string>
+    <string name="deskripsi">Dekripsi Diri: saya adalah mahasiswa teknik informatika semester 6 di universitas komputer indonesia di kota Bandung</string>
+    <string name="deskripsi_aplikasi">Deskripsi Aplikasi</string>
+</resources>
